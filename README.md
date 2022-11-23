@@ -3,7 +3,7 @@
 # Description
 This application is a CMS-style blog site, where developers can publish their blog posts and comment on other developers’ posts as well. It follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
-URL of deployed application on Heroku: 
+URL of deployed application on Heroku: https://git.heroku.com/calm-stream-08086.git
 
 ## Table of Contents   
 * [Description](#description)
