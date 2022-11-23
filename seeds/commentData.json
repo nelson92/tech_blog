@@ -1,0 +1,21 @@
+[
+    {
+        "user_id": 1,
+        "post_id": 1,
+        "comment_text": "Well actually, I've found the opposite to be true"
+    },
+    {
+        "user_id": 2,
+        "post_id": 2,
+        "comment_text": "Yyyassss. So true!"
+
+    },
+    {
+        "user_id": 3,
+        "post_id": 4,
+        "comment_text": "This is so interesting. Can you share the link to the article?"
+
+    }
+
+]
+

@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": 1,
+        "post_title": 1,
+        "post_content": "Can you be a good manager in tech if you have zero programming skills?"
+    },
+    {
+        "user_id": 2,
+        "post_title": 2,
+        "post_content": "Why can't there be one ubiquitous programming language that 'does everything' if the underlying principles of coding is all the same?"
+
+    },
+    {
+        "user_id": 3,
+        "post_title": 3,
+        "post_content": "Does imposter syndrome affects many people who are in programming?"
+
+    }
+
+]
